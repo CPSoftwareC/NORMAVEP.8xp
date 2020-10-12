@@ -1,11 +1,12 @@
-<!-- README.md Versão 1.0 -->
+<!-- README.md Versão 1.1 -->
 <h1>Prgm NORMAVEP (<strong><em>Norma de Vetor Plus(+)</em></strong>)</h1>
 
 <h3>Biografia</h3>
 
-<p>Desenvolvido em TI-BASIC. Uso para auxiliar o estudo da Geometria analítica no plano e no espaço <strong>(Referencial <em>Oxy</em> e <em>Oxyz</em>, respetivamente)</strong>. Calcula a norma de um vetor através das coordenadas do mesmo, dadas pelo usúario, no plano (<em>Oxy</em>) ou no espaço (<em>Oxyz</em>).</p>
+<p>Desenvolvido em TI-BASIC. Uso para auxiliar o estudo da Geometria analítica no plano e no espaço <strong>(Referencial <em>Oxy</em>
+ e <em>Oxyz</em>, respetivamente)</strong>. Calcula a norma de um vetor através das coordenadas do mesmo, dadas pelo usúario, no plano (<em>Oxy</em>) ou no espaço (<em>Oxyz</em>).</p>
 
-<h2>Versão <em><strong>1.0</strong></em></h2>
+<h2>Versão <em><strong>1.1</strong></em></h2>
 
 <h3>Compatibilidade</h3>
 
